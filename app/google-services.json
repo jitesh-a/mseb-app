@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773773974301",
+    "firebase_url": "https://mseb-app.firebaseio.com",
+    "project_id": "mseb-app",
+    "storage_bucket": "mseb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773773974301:android:9c0804e6fddca0c4",
+        "android_client_info": {
+          "package_name": "in.co.msedcl.msebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773773974301-nrlfedaiq34lee300fv84cuqotq37cl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.msedcl.msebapp",
+            "certificate_hash": "9d85ca97f415b65ef37d21eef7098dd38476b2d5"
+          }
+        },
+        {
+          "client_id": "773773974301-0bqvqk50h818f5t22s39su70kqeo4n1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90b4MRu0G3ORgn7eehBO-CMNw8JqYZlk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773773974301-0bqvqk50h818f5t22s39su70kqeo4n1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
